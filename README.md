@@ -1,5 +1,5 @@
 # Systeme_de_recommandation_de_produits_aux_clients_d_un_e_commerce
-Proposer à chaque client un produit basé sur son panier d'achat actuel qui maximise la probabilité d'achat. La table finale est composée des identifiants du client associés au produit qui lui est proposé et à la probabilité d'achat associée.
+Proposer à chaque client un produit basé sur son panier d'achat actuel qui maximise la probabilité d'achat.
 
 
 
@@ -41,3 +41,19 @@ L'entreprise vend principalement des cadeaux uniques pour toutes les occasions. 
 ## Démarche
 
 Cf. le notebook ci-joint.
+
+La création de ce système de recommandation sur les données du commerce électronique s'est faite via l'algorithme "Fp Growth" qui est un modèle de Data Mining basé sur des règles d'association.
+
+
+
+## Conclusion
+
+Parmi un catalogue de produits de plus de 3000 articles, notre modèle simple basé sur des règles d'association permet de prédire dans 36% des cas le prochain produit que le client achètera et donc de générer des revenus supplémentaires significatifs.
+
+L'avantage de ce modèle est qu'il offre une très bonne précision tout en étant à la fois facile à mettre en œuvre et explicable.
+
+En effet, contrairement à d'autres modèles d'intelligence artificielle qui peuvent apparaître comme des "boîtes noires" parce qu'ils sont difficiles à expliquer, les résultats du modèle Fp Growth sont compréhensibles parce que vous y trouverez toutes les règles spécifiques à votre entreprise.
+
+
+
+
