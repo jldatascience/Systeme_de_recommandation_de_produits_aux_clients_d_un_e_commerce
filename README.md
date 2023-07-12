@@ -31,7 +31,9 @@ La table finale est composée des identifiants du client associés au produit qu
 
 Le moteur de recommandation développé est donc basé sur un ensemble de données publiques proposé par The UCI Machine Learning Repository.
 
-Ce jeu de données contient l'historique des transactions d'une boutique en ligne sur 1 an.
+Ce jeu de données contient l'historique des transactions d'une boutique en ligne sur 1 an, effectuées entre le 01/12/2010 et le 09/12/2011 pour un commerce de détail en ligne basé au Royaume-Uni.
+L'entreprise vend principalement des cadeaux uniques pour toutes les occasions. De nombreux clients de l'entreprise sont des grossistes.
+
 
 
 
